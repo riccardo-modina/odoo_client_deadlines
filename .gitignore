@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[co]
+*$py.class
+
+# Packaging / build artifacts
+*.egg-info/
+dist/
+build/
+
+# Backups & temporary files
+*~
+*.orig
+*.swp
+*.swo
+*.log
+
+# Local environment & IDE
+.env
+.vscode/
+.idea/
+.DS_Store
